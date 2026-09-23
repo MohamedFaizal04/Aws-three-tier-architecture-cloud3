@@ -44,4 +44,4 @@ Designed a multi-VLAN college network using Cisco Packet Tracer with DHCP, ACLs,
 👤 Author
 A.Mohamed Faizal
 
-faizal@190404gmail.com
+faizal190404@gmail.com
